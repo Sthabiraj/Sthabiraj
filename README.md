@@ -13,7 +13,7 @@
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,redux,vite,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,redux,vite,tailwindcss,django)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
@@ -25,4 +25,4 @@
 
 <h2>Social</h2>
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/biraj.shrestha.2004) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/biraj-shrestha-25736b1b8) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/birajdotdev) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/birajdotdev) 
